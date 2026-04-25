@@ -13,7 +13,6 @@ Este projeto é uma ferramenta prática de conversão de moedas, focada em forne
 Durante o desenvolvimento deste projeto, foquei em:
 1. **Lógica de Conversão:** Implementação de cálculos precisos baseados em taxas fixas (ou dinâmicas via API).
 2. **Manipulação de DOM:** Atualização em tempo real de textos, imagens de bandeiras e valores sem a necessidade de recarregar a página.
-3. **UX/UI:** Criação de uma interface agradável com feedback visual imediato para o usuário.
 
 ## 📦 Como visualizar o projeto
 Você pode visualizar o resultado final rodando o arquivo `index.html` em seu navegador ou acessando o link do GitHub Pages (se disponível).
